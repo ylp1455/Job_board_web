@@ -1,0 +1,56 @@
+{
+    "featuredJobs": [
+      {
+        "id": 1,
+        "company": "Acme Inc.",
+        "position": "Full Stack Developer",
+        "location": "New York, NY",
+        "salary": "$120,000 - $140,000",
+        "description": "We are seeking a talented Full Stack Developer to join our team. You will work on a variety of projects and be responsible for the end-to-end development of web applications. The ideal candidate will have experience with both front-end and back-end technologies.",
+        "requirements": [
+          "3+ years of experience in full-stack web development",
+          "Proficiency in JavaScript, HTML, and CSS",
+          "Experience with React, Node.js, and MongoDB",
+          "Excellent problem-solving and communication skills"
+        ],
+        "postedDate": "2022-02-15",
+        "expirationDate": "2022-03-15",
+        "applyLink": "https://www.acmeinc.com/careers/full-stack-developer"
+      },
+      {
+        "id": 2,
+        "company": "XYZ Corporation",
+        "position": "UX Designer",
+        "location": "San Francisco, CA",
+        "salary": "$90,000 - $110,000",
+        "description": "We are looking for a talented UX Designer to help us create intuitive and user-friendly interfaces for our web and mobile applications. You will work closely with product managers, developers, and other stakeholders to gather requirements, create wireframes, and design high-fidelity prototypes.",
+        "requirements": [
+          "3+ years of experience in UX/UI design",
+          "Strong portfolio showcasing previous design work",
+          "Proficiency in design tools such as Sketch, Figma, or Adobe XD",
+          "Experience with HTML, CSS, and JavaScript a plus"
+        ],
+        "postedDate": "2022-02-28",
+        "expirationDate": "2022-03-28",
+        "applyLink": "https://www.xyzcorp.com/careers/ux-designer"
+      },
+      {
+        "id": 3,
+        "company": "ABC Industries",
+        "position": "Data Scientist",
+        "location": "Chicago, IL",
+        "salary": "$100,000 - $120,000",
+        "description": "We are seeking a skilled Data Scientist to help us analyze large datasets, develop predictive models, and generate insights that drive business decisions. The ideal candidate will have experience with statistical modeling, machine learning, and data visualization.",
+        "requirements": [
+          "3+ years of experience in data science or a related field",
+          "Strong knowledge of statistics and probability",
+          "Proficiency in Python or R",
+          "Experience with SQL and data visualization tools"
+        ],
+        "postedDate": "2022-03-01",
+        "expirationDate": "2022-04-01",
+        "applyLink": "https://www.abcindustries.com/careers/data-scientist"
+      }
+    ]
+  }
+  
