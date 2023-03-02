@@ -26,32 +26,23 @@
           <input type="submit" value="Search">
         </form>
       </section>
-      <section id="job-listings">
-        <h2>Job Listings</h2>
-        <ul>
-          <li>
-            <h3>Web Developer</h3>
-            <p>Company A</p>
-            <p>Location: City, State</p>
-            <a href="#">Apply Now</a>
-          </li>
-          <li>
-            <h3>Software Engineer</h3>
-            <p>Company B</p>
-            <p>Location: City, State</p>
-            <a href="#">Apply Now</a>
-          </li>
-          <li>
-            <h3>Front End Developer</h3>
-            <p>Company C</p>
-            <p>Location: City, State</p>
-            <a href="#">Apply Now</a>
-          </li>
-        </ul>
-      </section>
+      <div id="featured-jobs">
+        
+        
+        
+        <form action="/action_page.php">
+          <label for="keywords">First name:</label><br>
+          <input type="text" id="search-keywords" placeholder="Search by keywords"><br>
+          <label for="lname">location:</label><br>
+          <input type="text" id="search-location" placeholder="Search by location"><br><br>
+          <input type="submit" value="Submit">
+        </form> 
+
+      </div>
     </main>
     <footer>
       <p>Programming Job Board &copy; 2023</p>
     </footer>
   </body>
+  <script src="javascript.js"></script>
 </html>
